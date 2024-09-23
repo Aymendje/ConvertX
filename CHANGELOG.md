@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.0](https://github.com/C4illin/ConvertX/compare/v0.5.0...v0.6.0) (2024-09-23)
+
+
+### Features
+
+* ui remake with tailwind ([22f823c](https://github.com/C4illin/ConvertX/commit/22f823c535b20382981f86a13616b830a1f3392f))
+
 ## [0.5.0](https://github.com/C4illin/ConvertX/compare/v0.4.1...v0.5.0) (2024-09-20)
 
 
